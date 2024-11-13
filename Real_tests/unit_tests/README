@@ -1,0 +1,12 @@
+# Test Cases for Shooter Game
+
+## Overview
+This folder contains test cases for verifying the functionality of individual components and the integrated gameplay of the Shooter Game.
+
+## Test Structure
+
+1. **Unit Tests**: These tests verify the functionality of individual classes and functions.
+
+
+## Running Tests
+Run each test in visual studio 
